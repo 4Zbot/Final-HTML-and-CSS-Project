@@ -109,7 +109,7 @@
      transform: scale(1.2, 1.2);
      cursor: pointer;
  }
- 
+
 
  .text1 {
      font-size: 35px;
@@ -594,7 +594,7 @@
 
  .meet-btn:hover {
      cursor: pointer;
-     transform: scale(1.01, 1.01);
+     transform: scale(1.04, 1.04);
  }
 
  footer {
