@@ -107,6 +107,8 @@
 
  .btn:hover {
      transform: scale(1.2, 1.2);
+     cursor: pointer;
+ }
  }
 
  .text1 {
@@ -583,11 +585,16 @@
      font-weight: 600;
      color: white;
      background-color: rgb(170, 210, 54);
-     padding: 9px 34px;
+     padding: 9px 27px;
      border-radius: 4px;
      outline: none;
      border: none;
      margin-top: 15px;
+ }
+
+ .meet-btn:hover {
+     cursor: pointer;
+     transform: scale(1.01, 1.01);
  }
 
  footer {
